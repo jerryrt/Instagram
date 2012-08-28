@@ -5,7 +5,7 @@
 //  Created by Stuart Hall on 30/11/11.
 //
 
-#import "AFHTTPClient.h"
+#import <AFSDK/AFHTTPClient.h>
 
 @class InstagramUser;
 

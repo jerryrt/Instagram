@@ -6,7 +6,7 @@
 //
 
 #import "InstagramClient.h"
-#import "AFJSONRequestOperation.h"
+#import <AFSDK/AFJSONRequestOperation.h>
 
 #import "InstagramUser.h"
 #import "InstagramMedia.h"
